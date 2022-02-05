@@ -104,10 +104,10 @@ analytics:
 author:
   name             : "methane4"
   avatar           : "/assets/images/avatar.png"
-  bio              : "bio here"
+  bio              : # "bio here" # TODO
   location         : # "Canada"
-  email            : "email here"
-  uri              :
+  email            : # "email here" # TODO
+  uri              : "methane4.github.io" # TODO
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -115,10 +115,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "slemire"
+  github           : "methane4"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          : # "keybase here" TODO
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
