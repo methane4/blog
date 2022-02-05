@@ -133,7 +133,7 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   hackthebox       :
-  tryhackme        : https://tryhackme.com/p/methane4
+  # tryhackme        : https://tryhackme.com/p/methane4
   links            :
        - label: "TryHackme"
        icon: https://tryhackme.com/img/favicon.png
