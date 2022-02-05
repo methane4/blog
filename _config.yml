@@ -104,10 +104,10 @@ analytics:
 author:
   name             : "methane4"
   avatar           : "/assets/images/avatar.png"
-  bio              : # "bio here" # TODO
+  bio              : "bio here :blush: " # TODO
   location         : # "Canada"
   email            : # "email here" # TODO
-  uri              : "methane4.github.io" # TODO
+  uri              : # "methane4.github.io" # TODO
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
