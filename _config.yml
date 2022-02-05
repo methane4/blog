@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "methane4"
   avatar           : "/assets/images/avatar.png"
-  bio              : "bio here :blush: " # TODO
+  bio              : # "bio here :blush: " # TODO
   location         : # "Canada"
   email            : # "email here" # TODO
   uri              : # "methane4.github.io" # TODO
