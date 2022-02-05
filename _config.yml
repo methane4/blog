@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "snowscan.io"
+title                    : "methane4 - Blog"
 title_separator          : "-"
 name                     : "Snowscan"
 description              : "Posts about security, CTFs and networking"
