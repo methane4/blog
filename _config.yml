@@ -134,6 +134,10 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   hackthebox       :
   tryhackme        : https://tryhackme.com/p/methane4
+  links            :
+       - label: "TryHackme"
+       icon: https://tryhackme.com/img/favicon.png
+       url: https://tryhackme.com/p/methane4
 
 
 # Reading Files
