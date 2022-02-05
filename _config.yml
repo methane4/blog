@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Snowscan"
+  name             : "methane4"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester, CTF player<br>HackTheBox ATeam"
-  location         : "Canada"
+  bio              : "bio"
+  location         : # "Canada"
   email            : "info@snowscan.io"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
