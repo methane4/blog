@@ -79,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-twitter-username # TODO
 facebook:
   username               :
   app_id                 :
@@ -100,7 +100,7 @@ analytics:
     anonymize_ip         : # false # (default)
 
 
-# Site Author
+# Site Author # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-twitter-username
 author:
   name             : "methane4"
   avatar           : "/assets/images/avatar.png"
@@ -132,6 +132,8 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  hackthebox       :
+  tryhackme        : https://tryhackme.com/p/methane4
 
 
 # Reading Files
