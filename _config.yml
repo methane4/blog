@@ -107,7 +107,7 @@ author:
   bio              : # "bio here :blush: " # TODO
   location         : # "Canada"
   email            : # "email here" # TODO
-  uri              : "https://methane4.github.io/blog/" # TODO
+  uri              : "https://methane4.github.io/" # TODO
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
