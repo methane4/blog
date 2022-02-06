@@ -272,7 +272,15 @@
           </a>
         </li>
       {% endif %}
-
+      
+      {% if author.ctftime %}
+        <li>
+          <a href="https://ctftime.org/user/{{ author.ctftime }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fas fa-flag" aria-hidden="true"></i> CTFtime
+          </a>
+        </li>
+      {% endif %}
+      
       {% if author.vine %}
         <li>
           <a href="https://vine.co/u/{{ author.vine }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
