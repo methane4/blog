@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Under Construction
-excerpt: Under Construction :construction:
+excerpt: Under Construction
 date: 2022-02-06
 classes: wide
 header:
