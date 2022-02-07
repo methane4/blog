@@ -5,7 +5,7 @@ excerpt:
 date: 2022-02-06
 classes: wide
 header:
-  teaser: 
+  teaser: https://emojigraph.org/media/social/construction_1f6a7.png
   teaser_home_page: true
   og_image: https://emojigraph.org/media/social/construction_1f6a7.png
   overlay_color: "#333"
