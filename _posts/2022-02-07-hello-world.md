@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Hello World!
-excerpt: Hello World! :earth_africa:
+excerpt: Hello World!
 date: 2022-02-06
 classes: wide
 header:
