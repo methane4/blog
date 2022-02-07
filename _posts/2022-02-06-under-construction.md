@@ -6,7 +6,7 @@ date: 2022-02-06
 classes: wide
 header:
   teaser: https://emojigraph.org/media/social/construction_1f6a7.png
-  teaser_home_page: true
+  teaser_home_page: false
   og_image: 
   overlay_color: "#333"
 categories:
