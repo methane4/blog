@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: https://emojigraph.org/media/social/construction_1f6a7.png
   teaser_home_page: true
-  og_image: https://emojigraph.org/media/social/construction_1f6a7.png
+  og_image: 
   overlay_color: "#333"
 categories:
  
