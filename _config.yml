@@ -79,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-twitter-username # TODO
+  username               : methane0x4 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-twitter-username # TODO
 facebook:
   username               :
   app_id                 :
