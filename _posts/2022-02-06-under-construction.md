@@ -8,7 +8,7 @@ header:
   teaser: https://emojigraph.org/media/social/construction_1f6a7.png
   teaser_home_page: false
   og_image: 
-  overlay_color: "#000000"
+  overlay_color: "#050d26"
 categories:
  
 tags:  
