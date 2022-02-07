@@ -16,5 +16,5 @@ tags:
 Under Construction :construction:
 
 
-![](/assets/images/htb-writeup-delivery/delivery_logo.png)
+![](/assets/images/2022-02-06-under-construction)
 
