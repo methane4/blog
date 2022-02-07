@@ -15,5 +15,5 @@ tags:
 Under Construction :construction:
 
 
-![][/assets/images/2022-02-06-under-construction/building-construction_1f3d7-fe0f.png]
+![/assets/images/2022-02-06-under-construction/building-construction_1f3d7-fe0f.png]
 
