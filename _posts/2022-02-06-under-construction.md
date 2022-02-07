@@ -5,9 +5,8 @@ excerpt: Under Construction
 date: 2022-02-06
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-delivery/delivery_logo.png
+  teaser: /assets/images/2022-02-06-under-construction/building-construction_1f3d7-fe0f.png
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
 categories:
  
 tags:  
@@ -16,5 +15,5 @@ tags:
 Under Construction :construction:
 
 
-![](/assets/images/2022-02-06-under-construction)
+![](/assets/images/2022-02-06-under-construction/building-construction_1f3d7-fe0f.png)
 
