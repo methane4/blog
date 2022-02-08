@@ -2,7 +2,7 @@
 layout: single
 title: Hello World!
 excerpt: 
-date: 2022-02-06
+date: 2022-02-07
 classes: wide
 header:
   teaser: https://cdn.shopify.com/s/files/1/1061/1924/products/Emoji_Earth_Globe_Europe_Africa_large.png
