@@ -16,6 +16,3 @@ tags:
 
 Hello World! :earth_africa:
 
-
-![](https://cdn.shopify.com/s/files/1/1061/1924/products/Emoji_Earth_Globe_Europe_Africa_large.png)
-
