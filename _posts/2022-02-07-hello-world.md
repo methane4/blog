@@ -5,9 +5,10 @@ excerpt:
 date: 2022-02-06
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-delivery/delivery_logo.png
-  teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  teaser: https://cdn.shopify.com/s/files/1/1061/1924/products/Emoji_Earth_Globe_Europe_Africa_large.png
+  teaser_home_page: false
+  og_image: 
+  overlay_color: "#1e253c"
 categories:
 
 tags:  
@@ -16,5 +17,5 @@ tags:
 Hello World! :earth_africa:
 
 
-![](/assets/images/htb-writeup-delivery/delivery_logo.png)
+![](https://cdn.shopify.com/s/files/1/1061/1924/products/Emoji_Earth_Globe_Europe_Africa_large.png)
 
